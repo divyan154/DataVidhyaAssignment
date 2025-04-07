@@ -7,7 +7,8 @@ This project is a simple and responsive Data vidhya platform built using **React
 ## 📸 Demo
 
 ![image](https://github.com/user-attachments/assets/abd39c24-533e-48ae-ac8b-56b5960bb491)
-![image](https://github.com/user-attachments/assets/579cb816-deca-481f-8746-e858f3139eb7)
+![image](https://github.com/user-attachments/assets/63c28dce-5a99-45a4-8bc2-3cfd1950af8e)
+
 
 
 
