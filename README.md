@@ -1,12 +1,15 @@
-# 🚀 Project Name
+![image](https://github.com/user-attachments/assets/1cc49515-83c4-4aa8-aaea-1b1013a66327)# 🚀 Project Name
 
-A brief description of your project — what it does, why you built it, and what makes it interesting.
+
 It is a data Vidhya platform made with nextjs. 
 This project is a simple and responsive Data vidhya platform built using **React**, **TypeScript**, and **Tailwind CSS**. 
 
 ## 📸 Demo
 
-Add screenshots or a link to a live demo here if available.
+![image](https://github.com/user-attachments/assets/abd39c24-533e-48ae-ac8b-56b5960bb491)
+![image](https://github.com/user-attachments/assets/579cb816-deca-481f-8746-e858f3139eb7)
+
+
 
 ---
 ## Challenges faced 
