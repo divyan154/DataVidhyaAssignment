@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1cc49515-83c4-4aa8-aaea-1b1013a66327)# 🚀 Project Name
+# 🚀 Data Vidhya Platform
 
 
 It is a data Vidhya platform made with nextjs. 
@@ -7,7 +7,8 @@ This project is a simple and responsive Data vidhya platform built using **React
 ## 📸 Demo
 
 ![image](https://github.com/user-attachments/assets/abd39c24-533e-48ae-ac8b-56b5960bb491)
-![image](https://github.com/user-attachments/assets/63c28dce-5a99-45a4-8bc2-3cfd1950af8e)
+![Screenshot (9)](https://github.com/user-attachments/assets/9b034be8-fb84-4e82-abce-d20b370d8363)
+
 
 
 
