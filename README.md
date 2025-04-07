@@ -5,9 +5,9 @@ It is a data Vidhya platform made with nextjs.
 This project is a simple and responsive Data vidhya platform built using **React**, **TypeScript**, and **Tailwind CSS**. 
 
 ## 📸 Demo
-
-![image](https://github.com/user-attachments/assets/abd39c24-533e-48ae-ac8b-56b5960bb491)
 ![Screenshot (9)](https://github.com/user-attachments/assets/9b034be8-fb84-4e82-abce-d20b370d8363)
+![image](https://github.com/user-attachments/assets/abd39c24-533e-48ae-ac8b-56b5960bb491)
+
 
 
 
